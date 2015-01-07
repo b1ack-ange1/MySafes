@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MySafes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_safes">MySafes</string>
+    <string name="title_activity_add">Add</string>
+    <string name="title_activity_edit">Edit item</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="oldPass">Old password</string>
+    <string name="newPass">New password</string>
+    <string name="confNewPass">Confirm new password</string>
+    <string name="confirmBtn">Confirm</string>
+
+</resources>
